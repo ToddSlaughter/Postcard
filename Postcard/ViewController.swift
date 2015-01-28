@@ -43,6 +43,8 @@ class ViewController: UIViewController {
         
         mailButton.setTitle("Mail Sent", forState: UIControlState.Normal)
         
+        // this is a comment, just to test GitHub for Mac
+        
     }
 
 }
